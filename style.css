@@ -85,14 +85,14 @@ body.collapsed .sidebar-top {
 }
 
 .logo {
-  height: 42px;
+  height: 80px;
   overflow: hidden;
   max-width: 100%;
   object-fit: contain;
 }
 
 .logo-small {
-  height: 42px;
+  height: 50px;
   overflow: hidden;
   max-width: 100%;
   display: none;
